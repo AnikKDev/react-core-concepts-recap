@@ -1,0 +1,7 @@
+.todo-container{
+    display: grid;
+    grid-template-columns:repeat( 4, 1fr);
+    grid-gap: 15px;
+    width: 90%;
+    margin: 0 auto;
+}

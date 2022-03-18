@@ -1,0 +1,14 @@
+.container{
+    border: 5px solid rgb(243, 171, 171);
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgb(209, 185, 182);
+    margin-top: 20px;
+    font-size: 2em;
+}
+.container button{
+    padding: 5px 10px;
+border-radius: 5px;
+font-size: 20px;
+background-color: aquamarine;
+}
